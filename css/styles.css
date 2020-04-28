@@ -7,10 +7,22 @@ a {
     color: white !important;
 }
 
+.perspective-text{
+    color:  #16256a !important;
+}
+
 .nav-collapse span, .nav-collapse span::before, .nav-collapse span::after{
     background:white !important;
 }
 
 .center-text{
     text-align: center;
+}
+
+.service:hover h5{
+    color: white !important;
+}
+
+p a{
+    color: #8b9cb1 !important;
 }
