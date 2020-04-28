@@ -1,0 +1,12 @@
+
+.perspective-ent-col{
+    background: #16256a !important;
+}
+
+a {
+    color: white !important;
+}
+
+.nav-collapse span, .nav-collapse span::before, .nav-collapse span::after{
+    background:white !important;
+}
