@@ -10,3 +10,7 @@ a {
 .nav-collapse span, .nav-collapse span::before, .nav-collapse span::after{
     background:white !important;
 }
+
+.center-text{
+    text-align: center;
+}
